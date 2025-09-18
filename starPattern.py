@@ -17,6 +17,7 @@ for i in range(size):
 size = 5
 for i in range(size):
     count = size -1
+
     print("*" * count)
 
     # size = 10
